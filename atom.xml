@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vision</title>
+  
+  <subtitle>目之所及,便是视界</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://zhaobao.info/"/>
+  <updated>2019-04-15T21:39:48.242Z</updated>
+  <id>https://zhaobao.info/</id>
+  
+  <author>
+    <name>Joe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>胶片·印象</title>
+    <link href="https://zhaobao.info/2019/04/16/%E8%83%B6%E7%89%87%C2%B7%E5%8D%B0%E8%B1%A1/"/>
+    <id>https://zhaobao.info/2019/04/16/胶片·印象/</id>
+    <published>2019-04-15T17:12:10.853Z</published>
+    <updated>2019-04-15T21:39:48.242Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://img.fotomen.cn/2015/10/235.jpg&quot; class=&quot;full-image&quot;&gt;&lt;/p&gt;
+&lt;font size=&quot;5&quot;&gt;&lt;strong&gt;每每&lt;/strong&gt;&lt;/font&gt;看到川岛小鸟的胶片，总会被这种好看，真实的生活所打动，温情治愈也不乏趣味。作为一个没有胶片机的胶片迷，抛开设备暂且不谈，我想单纯的从质感而言，以印象派的角度来解读我对胶片的印象。
+    
+    </summary>
+    
+    
+      <category term="摄影" scheme="https://zhaobao.info/tags/%E6%91%84%E5%BD%B1/"/>
+    
+      <category term="画画" scheme="https://zhaobao.info/tags/%E7%94%BB%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="https://zhaobao.info/2016/09/02/My-first-blog/"/>
+    <id>https://zhaobao.info/2016/09/02/My-first-blog/</id>
+    <published>2016-09-02T02:40:45.000Z</published>
+    <updated>2019-04-15T17:10:20.136Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/fall-escapes/central-park-fall-new-york-city.adapt.1190.1.jpg&quot; class=&quot;full-image&quot;&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;Hello World!&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="小记" scheme="https://zhaobao.info/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+  </entry>
+  
+</feed>
