@@ -1324,7 +1324,8 @@ pre .javascript .function {
   box-sizing: border-box;
   margin: 0 auto 25px;
   padding: 3px;
-  border: 1px solid #ddd;
+  border: none;
+/*border: 1px solid $gray-lighter;*/
 }
 @media (max-width: 767px) {
   .posts-collapse {
@@ -1858,7 +1859,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6cf795;
+  background: #c3c361;
 }
 .feed-link,
 .chat {
